@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>An shuffled Hello World</Title>
+    <PackageId>orHeWllrodl</PackageId>
+    <Authors>RG</Authors>
+    <Company>w00t SAS</Company>
+    <Description>This just shuffle a hello world string</Description>
+    <RepositoryUrl>https://github.com/t00w/HelloWorld_NuGet</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>hello;world;shuffle</PackageTags>
+  </PropertyGroup>
+
+</Project>
