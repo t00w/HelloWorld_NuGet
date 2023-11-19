@@ -13,6 +13,7 @@
     <RepositoryUrl>https://github.com/t00w/HelloWorld_NuGet</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>hello;world;shuffle</PackageTags>
+    <PackageLicenseExpression>JDWYW</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
